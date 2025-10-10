@@ -63,6 +63,12 @@ Aplikasi ini menggunakan komponen berikut:
 |                                          |
 | [TAMBAH]   [HAPUS]   [KELUAR]            |
 +------------------------------------------+
+
+## SCREENSHOT
+![Gambar 1](images/latihan1.PNG)
+![Hasil Tambah](images/latihan1-1.PNG)
+![Popup window](images/latihan1-2.PNG)
+
 ```
 
 > Panel utama (`JPanel`) menggunakan **warna merah muda muda (pink lembut)** dengan border bevel untuk tampilan yang menarik.
