@@ -64,10 +64,19 @@ Aplikasi ini menggunakan komponen berikut:
 | [TAMBAH]   [HAPUS]   [KELUAR]            |
 +------------------------------------------+
 
+```
+
 ## SCREENSHOT
-![Gambar 1](images/latihan1.PNG)
-![Hasil Tambah](images/latihan1-1.PNG)
-![Popup window](images/latihan1-2.PNG)
+## ## SCREENSHOT
+
+### Tampilan Awal Aplikasi
+![Tampilan Awal](image/latihan1.PNG)
+
+### Hasil Penjumlahan
+![Hasil Tambah](image/latihan1-1.PNG)
+
+### Popup Error Saat Input Salah
+![Popup window](image/latihan1-2.PNG)
 
 ```
 
